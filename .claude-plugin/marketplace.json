@@ -1,0 +1,18 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "JiWon Lee"
+  },
+  "metadata": {
+    "description": "Plugins by JiWon Lee (rieul)",
+    "homepage": "https://github.com/jwonyLee/skills"
+  },
+  "plugins": [
+    {
+      "name": "john-sundell",
+      "version": "1.0.0",
+      "source": "./plugins/john-sundell",
+      "description": "John Sundell-style Swift/iOS Development for Claude Code"
+    }
+  ]
+}
