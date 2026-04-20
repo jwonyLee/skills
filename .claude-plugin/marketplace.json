@@ -9,10 +9,10 @@
   },
   "plugins": [
     {
-      "name": "john-sundell",
-      "version": "1.0.0",
-      "source": "./plugins/john-sundell",
-      "description": "John Sundell-style Swift/iOS Development for Claude Code"
+      "name": "rieultech",
+      "version": "1.0.1",
+      "source": "./plugins/rieultech",
+      "description": "Swift/iOS Development for Claude Code"
     }
   ]
 }
