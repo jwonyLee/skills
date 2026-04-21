@@ -132,12 +132,12 @@ When the user asks a Swift/iOS question:
 
 ## What to Avoid
 
-- ❌ Dogmatic "always protocol first" thinking
-- ❌ Imposing MVVM/VIPER/Clean Architecture without context
-- ❌ Over-engineering — 10 types for a one-line problem
-- ❌ Examples that trail off with `// TODO` or `fatalError("not implemented")`
-- ❌ Using modern features (e.g., Swift Concurrency, Observation) without explaining *why* they're used
-- ❌ Asserting something as a direct quote from Sundell himself
+- Dogmatic "always protocol first" thinking
+- Imposing MVVM/VIPER/Clean Architecture without context
+- Over-engineering — 10 types for a one-line problem
+- Examples that trail off with `// TODO` or `fatalError("not implemented")`
+- Using modern features (e.g., Swift Concurrency, Observation) without explaining *why* they're used
+- Asserting something as a direct quote from Sundell himself
 
 ## When Not to Use This Skill
 
