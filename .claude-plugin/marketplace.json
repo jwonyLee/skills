@@ -1,17 +1,17 @@
 {
-  "name": "skills",
+  "name": "rieul-plugins",
   "owner": {
     "name": "JiWon Lee"
   },
   "metadata": {
     "description": "Plugins by JiWon Lee (rieul)",
-    "homepage": "https://github.com/jwonyLee/skills"
+    "homepage": "https://github.com/jwonyLee/rieul-plugins"
   },
   "plugins": [
     {
-      "name": "rieultech",
-      "version": "1.0.1",
-      "source": "./plugins/rieultech",
+      "name": "rieul-plugins",
+      "version": "1.0.2",
+      "source": "./plugins/rieul-plugins",
       "description": "Swift/iOS Development for Claude Code"
     }
   ]
