@@ -2,6 +2,8 @@
 
 Patterns Sundell-style code uses to stay testable without a mocking framework.
 
+> For the principled framework behind these patterns — the four pillars of test value, mocks vs stubs, managed vs unmanaged dependencies, and the code quadrant — see `rieul-plugins:khorikov-unit-test`.
+
 ## The Core Rule
 
 **If it's hard to test, the design is the problem — not the test framework.**
